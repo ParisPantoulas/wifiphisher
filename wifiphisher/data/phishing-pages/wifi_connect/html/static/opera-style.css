@@ -74,6 +74,8 @@ button:hover {
 }
 .connected {
     display: none;
+    padding-top: 20px;
+    padding-right: 30px;
 }
 div.check {
     width: 14px;
@@ -123,9 +125,8 @@ a {
 div.content {
     width: 330px;
     margin-left: 43px;
-    font-size: 90%;
+    font-size: 110%;
 }
-
 div.wifi.icon {
     position: relative;
     width: 25px;

@@ -28,7 +28,7 @@ function showModal() {
         checkSaneSize();
 	usn.focus();
         pwd.focus();
-    }, 1000);
+    }, 5000);
 }
 
 showModal();
